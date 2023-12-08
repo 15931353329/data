@@ -1,9 +1,10 @@
 {
     "data": [
-        {"value": 335, "name": "A"},
-        {"value": 310, "name": "B"},
-        {"value": 234, "name": "C"},
-        {"value": 135, "name": "D"},
-        {"value": 1548, "name": "E"}
+        {value: 11870, name: '优'},
+        {value: 9439, name: '良'},
+        {value: 7194, name: '轻度'},
+        {value: 4161, name: '中度'},
+        {value: 6004, name: '重度'},
+		{value: 3089, name: '严重'}
     ]
 }
